@@ -1,4 +1,4 @@
 # hello-world
 ### just another repo
 
-branch create > edit > pull request > merge
+branch create > edit file > pull request > merge
